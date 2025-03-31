@@ -7,7 +7,8 @@ click on steammm executable application file
 Enjoy the Game 
 
 
-Hotkeys: 
+Hotkeys:
+
 E to interact 
 
 T to talk
