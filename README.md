@@ -9,6 +9,9 @@ Enjoy the Game
 
 Hotkeys: 
 E to interact 
+
 T to talk
+
 I for inventory 
+
 C for crafting
